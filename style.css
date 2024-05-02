@@ -1,0 +1,26 @@
+body {
+    position: relative;
+    max-width: 1000px;
+    margin: 30px auto;
+    height: 150px;
+  }
+.line{
+    background-color: rgb(18 69 74 / 85%);
+    height: 150px;
+}
+
+.header{
+    display: flex;
+}
+.profile{
+    max-width: 500px;
+}
+.profile img{
+    width: 350px;
+    height: auto;
+}
+.about{
+    max-width: 500px;
+    text-align: center;
+    margin: auto;
+}
